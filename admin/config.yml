@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: dialloahmadoutidiane211-dotcom/Comcom
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "site"
+    label: "Gestion du Site"
+    files:
+      - name: "data"
+        label: "Données de l'événement"
+        file: "data.json"
+        fields:
+          - label: "Programme"
+            name: "programme"
+            widget: "list"
+            fields:
+              - {label: "Heure", name: "heure", widget: "string"}
+              - {label: "Titre", name: "titre", widget: "string"}
+          - label: "Intervenants"
+            name: "intervenants"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
+              - {label: "Rôle", name: "role", widget: "string"}
+          - label: "Entreprises participantes"
+            name: "entreprises"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
