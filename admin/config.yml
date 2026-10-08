@@ -2,6 +2,7 @@ backend:
   name: github
   repo: dialloahmadoutidiane211-dotcom/Comcom
   branch: main
+  site_domain: rad-biscuit-f73c69.netlify.app
 
 media_folder: "images"
 public_folder: "/images"
