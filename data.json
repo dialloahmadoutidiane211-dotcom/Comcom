@@ -1,0 +1,67 @@
+{
+  "titre": "Événement RAESP – CEE",
+  "sous_titre": "",
+  "maj": "",
+  "sections": [
+    { "titre": "Programme", "items": [] },
+    { "titre": "Intervenants", "items": [] },
+    { "titre": "Entreprises participantes", "items": [] },
+    {
+      "titre": "Communication",
+      "items": [
+        { "label": "Annonce de l'événement", "statut": "à faire" },
+        { "label": "Inscriptions", "statut": "à faire" },
+        { "label": "Présentation des intervenants", "statut": "à faire" },
+        { "label": "Mobilisation des étudiants", "statut": "à faire" },
+        { "label": "Mobilisation des alumni", "statut": "à faire" },
+        { "label": "Présentation des entreprises participantes", "statut": "à faire" },
+        { "label": "Communication autour du mentoring", "statut": "à faire" },
+        { "label": "Communication autour de Seed Alumni", "statut": "à faire" },
+        { "label": "Communication post-événement", "statut": "à faire" }
+      ]
+    },
+    {
+      "titre": "Suivi et évaluation",
+      "items": [
+        { "label": "Nombre total de participants", "valeur": "" },
+        { "label": "Nombre d'étudiants participants par département", "valeur": "" },
+        { "label": "Nombre de jeunes diplômés participants", "valeur": "" },
+        { "label": "Nombre d'alumni mobilisés", "valeur": "" },
+        { "label": "Nombre d'intervenants", "valeur": "" },
+        { "label": "Nombre d'entreprises participantes", "valeur": "" },
+        { "label": "Nombre de stands installés", "valeur": "" },
+        { "label": "Nombre de CV collectés ou échangés", "valeur": "" },
+        { "label": "Nombre de mentors identifiés", "valeur": "" },
+        { "label": "Nombre de mentorés inscrits", "valeur": "" },
+        { "label": "Nombre de binômes mentor/mentoré constitués", "valeur": "" },
+        { "label": "Nombre de participants intéressés par Seed Alumni", "valeur": "" },
+        { "label": "Nombre d'adhésions Seed Alumni", "valeur": "" },
+        { "label": "Nombre de collaborations ou projets initiés", "valeur": "" },
+        { "label": "Taux de satisfaction des participants", "valeur": "" },
+        { "label": "Taux de suivi des participants après l'événement", "valeur": "" }
+      ]
+    },
+    {
+      "titre": "Livrables",
+      "items": [
+        { "label": "Programme définitif de l'événement", "statut": "à faire" },
+        { "label": "Liste des participants", "statut": "à faire" },
+        { "label": "Base de données des participants", "statut": "à faire" },
+        { "label": "Base de données des alumni mobilisés", "statut": "à faire" },
+        { "label": "Liste des entreprises participantes", "statut": "à faire" },
+        { "label": "Supports des ateliers", "statut": "à faire" },
+        { "label": "Supports des panels", "statut": "à faire" },
+        { "label": "Liste des mentors et mentorés", "statut": "à faire" },
+        { "label": "Premiers binômes de mentoring", "statut": "à faire" },
+        { "label": "Supports de présentation de la plateforme", "statut": "à faire" },
+        { "label": "Supports de présentation de Seed Alumni", "statut": "à faire" },
+        { "label": "Compte rendu de l'événement", "statut": "à faire" },
+        { "label": "Synthèse du questionnaire de satisfaction", "statut": "à faire" },
+        { "label": "Bilan des mises en relation", "statut": "à faire" },
+        { "label": "Bilan des opportunités professionnelles générées", "statut": "à faire" },
+        { "label": "Rapport d'impact", "statut": "à faire" },
+        { "label": "Recommandations pour la poursuite du programme", "statut": "à faire" }
+      ]
+    }
+  ]
+}
